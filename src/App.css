@@ -1,0 +1,175 @@
+
+/* Header 2 dropdown 1 */
+
+#mobIconBox:hover #mobileIcons{
+    color: green;
+}
+
+#followIconBox:hover #followIcon{
+    background-color: blue;
+}
+
+#langBox:hover #langIcon{
+    color: green;
+}
+#currBox:hover #currIcon{
+    color: green;
+}
+
+
+#header_2_dropdown_1:hover::after{
+    content: ">";
+    margin-left: auto;
+    padding-right:10px ;
+}
+
+#header_2_dropdown_1:hover{
+    background-color: gainsboro;
+    border-radius: 10px;
+    color: black;
+
+}
+
+#header_2_dropdown_1:hover #icon{
+    background-color: rgb(243, 215, 164);
+    color: orange;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+
+
+
+/* Header 2 dropdown 2 */
+
+#header_2_dropdown_2:hover::after{
+    content: ">";
+    margin-left: auto;
+    padding-right:10px ;
+}
+
+#header_2_dropdown_2:hover{
+    background-color: gainsboro;
+    border-radius: 10px;
+    color: black;
+
+}
+
+
+#header_2_dropdown_2:hover #icon{
+    background-color: rgb(243, 176, 164);
+    color: red;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+
+
+
+
+/* Header 2 dropdown 2 */
+
+#header_2_dropdown_3:hover::after{
+    content: ">";
+    margin-left: auto;
+    padding-right:10px ;
+}
+
+#header_2_dropdown_3:hover{
+    background-color: gainsboro;
+    border-radius: 10px;
+    color: black;
+
+}
+
+
+#header_2_dropdown_3:hover #icon{
+    background-color: rgb(164, 243, 175);
+    color: green;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+
+
+
+
+/* Login Dropdown item 1 */
+
+#login_dropdown_item_1:hover::after{
+    content: ">";
+    margin-left: auto;
+    padding-right:15px ;
+}
+
+#login_dropdown_item_1:hover{
+    background-color: gainsboro;
+    border-radius: 10px;
+    color: black;
+
+}
+
+
+#login_dropdown_item_1:hover #icon{
+    background-color: rgb(164, 243, 175);
+    color: green;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+
+
+/* Login Dropdown item 2 */
+
+
+#login_dropdown_item_2:hover::after{
+    content: ">";
+    margin-left: auto;
+    padding-right:15px ;
+}
+
+#login_dropdown_item_2:hover{
+    background-color: gainsboro;
+    border-radius: 10px;
+    color: black;
+    
+}
+
+
+#login_dropdown_item_2:hover #icon{
+    background-color: rgb(243, 215, 164);
+    color: orange;
+    padding: 10px;
+    margin: 10px;
+    
+}
+
+
+
+/* Login Dropdown item 3 */
+
+#login_dropdown_item_3:hover::after{
+    content: ">";
+    margin-left: auto;
+    padding-right:15px ;
+}
+
+#login_dropdown_item_3:hover{
+    background-color: gainsboro;
+    border-radius: 10px;
+    color: black;
+
+}
+
+
+#login_dropdown_item_3:hover #icon{
+    background-color: rgb(243, 176, 164);
+    color: red;
+    padding: 10px;
+    margin: 10px;
+
+}

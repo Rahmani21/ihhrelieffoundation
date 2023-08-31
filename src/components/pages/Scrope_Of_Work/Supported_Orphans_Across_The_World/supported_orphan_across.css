@@ -1,0 +1,28 @@
+#SOATW_container{
+    background-color: red;
+    display: grid;
+    grid-template-columns: 1fr 2fr 2fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    gap: 5px;
+}
+#SOATW_container .box{
+    border: 1px solid black;
+    padding: 5px;
+
+}
+.box1{
+    grid-column: 1 / 6;
+}
+.box2{
+    grid-column: 1 / 2;
+    grid-row: 2 / 4;
+}
+.box3{
+    grid-column: 2 / 3;
+    grid-row: 2 / 4;
+}
+.box5{
+    grid-row: 5 / 6;
+}
+
+
