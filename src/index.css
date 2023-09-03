@@ -18,4 +18,12 @@
       animation-play-state: paused;
       
     }
+    @media screen and (max-width:768px) {
+      #largeScreenNavbar_2{
+        display: none;
+      }
+      
+      
+    }
+
   }
